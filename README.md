@@ -1,7 +1,7 @@
 <img width="1000" height="28" alt="divider (1)" src="https://github.com/user-attachments/assets/b475f6b7-4105-4dcc-9dc1-f2cb1841a53e" />
 <img width="1280" height="440" alt="banner (1)" src="https://github.com/user-attachments/assets/228836cb-ed69-4096-b7bc-b897ab3f8b09" />
 <img width="1000" height="28" alt="divider (1)" src="https://github.com/user-attachments/assets/b475f6b7-4105-4dcc-9dc1-f2cb1841a53e" />
- <br /> <!-- GANTI: nama, username, peran --> <table> <tr> <td align="center"><sub>Operator</sub><br /><b>FEIRA</b></td> <td align="center"><sub>Callsign</sub><br /><b><a href="https://github.com/[USERNAME]">INCOMMING</a></b></td> <td align="center"><sub>Role</sub><br /><b>REKAYASA PERANGKAT LUNAK</b></td> </tr> </table> <!-- GANTI (opsional): slogan pembuka --> <h3><i>Where light bends, code begins.</i></h3> </div> <p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
+ <br /> <!-- GANTI: nama, username, peran --> <table> <tr> <td align="center"><sub>Operator</sub><br /><b>FEIRA</b></td> <td align="center"><sub>Callsign</sub><br /><b><a href="https://github.com/[USERNAME]">https://github.com/FeiraXkewer-kewer</a></b></td> <td align="center"><sub>Role</sub><br /><b>REKAYASA PERANGKAT LUNAK</b></td> </tr> </table> <!-- GANTI (opsional): slogan pembuka --> <h3><i>Where light bends, code begins.</i></h3> </div> <p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
 📡 Signal Detected
 <!-- GANTI: perkenalan singkat 2-3 kalimat -->
 
