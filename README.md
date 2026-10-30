@@ -1,32 +1,39 @@
-<img width="1280" height="440" alt="banner" src="https://github.com/user-attachments/assets/b51d5b65-b711-4632-a9b8-b39b13c382a9" />
-<img width="1000" height="28" alt="divider" src="https://github.com/user-attachments/assets/c4b471fb-902e-4b19-a7b3-17c80ba4702a" />
-
- <br /> <!-- GANTI: nama, username, peran --> <table> <tr> <td align="center"><sub>Operator</sub><br /><b>FEIRA</b></td> <td align="center"><sub>Callsign</sub><br /><b><a href="https://github.com/[USERNAME]">incoming</a></b></td> <td align="center"><sub>Role</sub><br /><b>REKAYASA PERANGKAT LUNAK</b></td> </tr> </table> <!-- GANTI (opsional): slogan pembuka --> <h3><i>after the sun sets, FEIRA rises :3.</i></h3> </div> <p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
-<img width="1000" height="28" alt="divider" src="https://github.com/user-attachments/assets/c4b471fb-902e-4b19-a7b3-17c80ba4702a" />
- 
+<img width="1000" height="28" alt="divider (1)" src="https://github.com/user-attachments/assets/b475f6b7-4105-4dcc-9dc1-f2cb1841a53e" />
+<img width="1280" height="440" alt="banner (1)" src="https://github.com/user-attachments/assets/228836cb-ed69-4096-b7bc-b897ab3f8b09" />
+<img width="1000" height="28" alt="divider (1)" src="https://github.com/user-attachments/assets/b475f6b7-4105-4dcc-9dc1-f2cb1841a53e" />
+ <br /> <!-- GANTI: nama, username, peran --> <table> <tr> <td align="center"><sub>Operator</sub><br /><b>FEIRA</b></td> <td align="center"><sub>Callsign</sub><br /><b><a href="https://github.com/[USERNAME]">INCOMMING</a></b></td> <td align="center"><sub>Role</sub><br /><b>REKAYASA PERANGKAT LUNAK</b></td> </tr> </table> <!-- GANTI (opsional): slogan pembuka --> <h3><i>Where light bends, code begins.</i></h3> </div> <p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
 📡 Signal Detected
 <!-- GANTI: perkenalan singkat 2-3 kalimat -->
 
-Incoming transmission. hello🖐, let me introduce myself, I'm FEIRA, you can call me crot or feira
+Incoming transmission. [PERKENALAN SINGKAT: siapa kamu, apa yang kamu bangun, dan apa yang membuatmu tertarik pada bidang ini.]
 
-🔭 Focus: PROGRAMER <BR>
-🌌 Base: SIDOARJO/WIB <BR>
-💬 Ask me about: SEMUANYA BOLEH <BR>
-📨 Open to: [KOLABORASI / PEKERJAAN / MENTORING]<BR>
-<img width="1000" height="28" alt="divider" src="https://github.com/user-attachments/assets/c4b471fb-902e-4b19-a7b3-17c80ba4702a" />
+🔭 Focus: [BIDANG FOKUS]
+🌌 Base: [LOKASI / ZONA WAKTU]
+💬 Ask me about: [TOPIK YANG BOLEH DITANYAKAN]
+📨 Open to: [KOLABORASI / PEKERJAAN / MENTORING]
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
 🛰️ Mission Log
 
-
+<sub>Subjek yang sedang kupelajari dan kalibrasi saat ini.</sub>
 
 <!-- GANTI: isi subjek. Status bebas diubah: Observing, Calibrating, Queued, dll. -->
-Log	Subject	Status <BR>
-#001	[HTML,CSS]	🟢 Observing <BR>
-#002	[JAVASCRIPT]	🟣 Calibrating <BR>
-#003	[DATABASE]	🔵 Queued <BR>
-<img width="1000" height="28" alt="divider" src="https://github.com/user-attachments/assets/c4b471fb-902e-4b19-a7b3-17c80ba4702a" />
+Log	Subject	Status
+#001	[YANG SEDANG DIPELAJARI 1]	🟢 Observing
+#002	[YANG SEDANG DIPELAJARI 2]	🟣 Calibrating
+#003	[YANG SEDANG DIPELAJARI 3]	🔵 Queued
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
 🪐 Technology Orbit
 
+<sub>Makin dekat ke pusat, makin sering dipakai.</sub>
 
+<!-- GANTI: skill dan tools. Tambah atau hapus sesuai kebutuhan. -->
+Orbit	Systems
+🪐 Inner orbit
+<sub>core, dipakai setiap hari</sub>	[SKILL 1] [SKILL 2] [SKILL 3]
+🌠 Middle orbit
+<sub>instrumen, sering dipakai</sub>	[TOOL 1] [TOOL 2] [TOOL 3]
+☄️ Outer orbit
+<sub>sedang dijelajahi</sub>	[TEKNOLOGI BARU 1] [TEKNOLOGI BARU 2]
 <!-- OPSIONAL: ikon teknologi dari layanan eksternal (skillicons.dev). Hapus tanda komentar jika mau dipakai, ganti daftar ikon sesuai skill kamu. <p> <img src="https://skillicons.dev/icons?i=[IKON1],[IKON2],[IKON3]&theme=dark" alt="Ikon teknologi yang kugunakan" /> </p> --> <p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
 🚀 Active Missions
 
@@ -46,7 +53,7 @@ Log	Subject	Status <BR>
 
 <sub>Telemetri aktivitas GitHub. Data hanya mencakup aktivitas publik.</sub>
 
-<!-- GANTI: [USERNAME] di kedua URL. Layanan eksternal (github-readme-stats). Lihat penjelasan risiko. --> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&hide_rank=false&custom_title=Event%20Horizon%20Telemetry&bg_color=0b0714&title_color=22d3ee&text_color=cbd5e1&icon_color=a78bfa&ring_color=22d3ee&border_color=2e1f4d&border_radius=12" alt="Statistik GitHub untuk [USERNAME]" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&langs_count=6&custom_title=Dominant%20Spectrum&bg_color=0b0714&title_color=22d3ee&text_color=cbd5e1&border_color=2e1f4d&border_radius=12" alt="Bahasa pemrograman paling sering dipakai oleh [USERNAME]" /> </p> <p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
+<!-- GANTI: [USERNAME] di URL. Layanan eksternal (github-readme-stats). Warna kartu sudah disetel hitam-putih. --> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&hide_rank=false&custom_title=Event%20Horizon%20Telemetry&bg_color=0a0a0a&title_color=ffffff&text_color=d4d4d4&icon_color=ffffff&ring_color=ffffff&border_color=2a2a2a&border_radius=12" alt="Statistik GitHub untuk [USERNAME]" /> </p> <!-- OPSIONAL: kartu bahasa pemrograman. Batang bahasanya memakai warna bawaan tiap bahasa (tidak bisa dibuat hitam-putih), jadi dinonaktifkan agar tema tetap monokrom. Hapus tanda komentar jika tetap mau dipakai. <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&langs_count=6&custom_title=Dominant%20Spectrum&bg_color=0a0a0a&title_color=ffffff&text_color=d4d4d4&border_color=2a2a2a&border_radius=12" alt="Bahasa pemrograman paling sering dipakai oleh [USERNAME]" /> </p> --> <p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
 📶 Open Channels
 
 <sub>Buka frekuensi. Aku merespons sinyal yang jelas.</sub>
