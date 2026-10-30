@@ -1,16 +1,29 @@
-## Hi there 👋
+# 🌌 [Feiraa] // @[FeiraXkewer-kewer]
 
-<!--
-**FeiraXkewer-kewer/FeiraXkewer-kewer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **[ Deep Space Code Observatory &nbsp;|&nbsp; Event Horizon Architect ]**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📡 Signal Detected
+- 🔭 **Coordinates:** `[not found]`
+- ⚡ **Mission Focus:** `[programmer]`
+- 🛡️ **Status:** Operational & Ready for Deployment
+
+---
+
+## ⚛️ Technology Orbit
+- **Languages:** `[HTML, CSS, JS]` / `[Rust]` / `[Go]`
+- **Databases:** `[API WHATSAP]` / `[sembarang]`
+
+---
+
+## 🌠 Active Missions
+- **[DEPRAVED WORLD (not finished)]** — `[NOT FINISHED]` : game yang di buat untuk melatih konsentrasi,strategi,dan reflek
+- **[BROADCAST]** — `[PRIVATE]` : projek untuk mengirim undangan/pesan ke beberapa nomor yang belum kita save
+
+---
+
+<p align="center">
+  <code>"In the vast ocean of data, every line of code is a star mapped against the void."</code><br>
+  <strong>— [NAMA] // END OF TRANSMISSION</strong>
+</p>    
