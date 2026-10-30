@@ -7,11 +7,11 @@
 
 Incoming transmission. [PERKENALAN SINGKAT: siapa kamu, apa yang kamu bangun, dan apa yang membuatmu tertarik pada bidang ini.]
 
-🔭 Focus: [BIDANG FOKUS]
-🌌 Base: [LOKASI / ZONA WAKTU]
-💬 Ask me about: [TOPIK YANG BOLEH DITANYAKAN]
-📨 Open to: [KOLABORASI / PEKERJAAN / MENTORING]
-<p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
+🔭 Focus: [BIDANG FOKUS] <br>
+🌌 Base: [LOKASI / ZONA WAKTU] <br>
+💬 Ask me about: [TOPIK YANG BOLEH DITANYAKAN] <br>
+📨 Open to: [KOLABORASI / PEKERJAAN / MENTORING] <br>
+<img width="1000" height="28" alt="divider (1)" src="https://github.com/user-attachments/assets/b475f6b7-4105-4dcc-9dc1-f2cb1841a53e" />
 🛰️ Mission Log
 
 <sub>Subjek yang sedang kupelajari dan kalibrasi saat ini.</sub>
