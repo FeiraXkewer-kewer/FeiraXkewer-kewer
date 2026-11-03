@@ -16,10 +16,7 @@ Open to:  <br>
 <sub>Subjek yang sedang kupelajari dan kalibrasi saat ini.</sub>
 
 <!-- GANTI: isi subjek. Status bebas diubah: Observing, Calibrating, Queued, dll. -->
-Log	Subject	Status
-#001	[YANG SEDANG DIPELAJARI 1]	🟢 Observing
-#002	[YANG SEDANG DIPELAJARI 2]	🟣 Calibrating
-#003	[YANG SEDANG DIPELAJARI 3]	🔵 Queued
+
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%" /></p>
 🪐 Technology Orbit
 
